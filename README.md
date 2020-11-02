@@ -1,2 +1,2 @@
-# COLLISION
-TO UNDERSTAND THE USE OF COLLISION
+# p5.play-boilerplate
+Boiler plate for p5.play
